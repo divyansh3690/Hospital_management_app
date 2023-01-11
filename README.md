@@ -3,7 +3,7 @@ This is a backend application for hospital management system made with the help 
 
 
 ## OVERVIEW:
-Go to {} for backend overview.Wait for 10 seconds give it time to load.
+Go to https://hospital-management-app.onrender.com for backend overview.Wait for 10 seconds give it time to load.
 Keep in mind that this is just backend part of the application .
 Thus, you will need to run it on OpenAPI or Postman.
 
@@ -26,7 +26,7 @@ Sidenote- Admin authentication is done by OAuth 2.0 .
 
 Now, as mentioned above there are two ways to run the application:
 1. By uvicorn server that will be live on http://127.0.0.1:8000 or the mentioned url in terminal after you run 3rd command in terminal.
-2. By online hosting i.e done by render here at {}.
+2. By online hosting i.e done by render here at https://hospital-management-app.onrender.com.
 
 
 
