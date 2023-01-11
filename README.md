@@ -9,7 +9,8 @@ Thus, you will need to run it on OpenAPI or Postman.
 
 ## Working of the Application:
 This is a backend of hospital management system. This project works like the real world hospital management system where once the patient is admited,their details 
-are filled by the admin.Once a doctor is assigned to the patient we can also see patient details along wiht the doctor assigned.
+are filled by the admin.Once a doctor is assigned to the patient we can also see patient details along wiht the doctor assigned.Patients and Doctors have a many to mant relationship which helps us assign different patients to a single doctor and vice versa.\
+\
 Sidenote- Admin authentication is done by OAuth 2.0 .
 
 
