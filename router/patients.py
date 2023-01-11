@@ -109,6 +109,8 @@ async def delete_patient_details(id: int, db: Session = Depends(get_db), adm: di
     if not req_post:
         return get_notfound_exception()
     db.query(model.Patients).filter(id == model.Patients.id).delete()
+    db.query(model.link).filter(id==model.link.patient_id).delete()
+
     db.commit()
 
     return successful_response(201)
