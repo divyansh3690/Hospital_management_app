@@ -13,4 +13,4 @@ app.include_router(patients.router)
 
 @app.get("/")
 async def hello():
-    return {"Working"}
+    return {"This is just backend part of the project. Please type '/docs' to the url to see the endpoint at OpenAPI. "}
