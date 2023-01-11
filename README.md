@@ -26,7 +26,7 @@ Sidenote- Admin authentication is done by OAuth 2.0 .
 
 Now, as mentioned above there are two ways to run the application:
 1. By uvicorn server that will be live on http://127.0.0.1:8000 or the mentioned url in terminal after you run 3rd command in terminal.
-2. By online hosting i.e done by render here at https://posts-app-backend.onrender.com/.
+2. By online hosting i.e done by render here at {}.
 
 
 
