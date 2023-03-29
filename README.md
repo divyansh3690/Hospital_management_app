@@ -15,7 +15,7 @@ Sidenote- Admin authentication is done by OAuth 2.0 .
 
 
 ## Installation 
-##### 1.Clone the repo
+##### 1.Clone the above repo
         git clone https://github.com/divyansh3690/Hospital_management_app.git
         
 ##### 2. Install the requirements
